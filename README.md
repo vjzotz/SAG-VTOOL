@@ -5,7 +5,7 @@
 
 ---
 
-## 💎 Novedades de la Versión 1.1
+## 💎 Novedades de la Versión 1.1 (Español)
 Esta actualización transforma el flujo de trabajo original en una herramienta de precisión para el set:
 
 * **Motor de Píxeles**: Visualización automática de la resolución real en el lienzo ($px\_w \times px\_h$).
@@ -22,6 +22,28 @@ Esta actualización transforma el flujo de trabajo original en una herramienta d
 4.  Genera el mapa de alineación (SVG/PNG) listo para ruteo en Media Servers.
 
 ---
+
+## 🌎 Version 1.1 - English Description
+
+### **Professional Screen Alignment Grid Generator**
+SAG TOOL (originally *Script de Automatización de Grillas*) has evolved into a standalone professional application designed for VJs, Stage Designers, and Technical Directors.
+
+### **Key Features:**
+* **Pixel-Based Engine**: Automatically calculates and displays the real resolution ($px\_w \times px\_h$) on the grid for seamless Media Server integration.
+* **Smart Scaling**: Built-in margin protection algorithm to ensure visibility on extreme vertical or horizontal aspect ratios.
+* **Optimized UI**: Static, scroll-free interface designed for high-pressure production environments.
+* **Technical Credits**: Permanent "Responsable Técnico" field to ensure proper technical authorship and layout identification.
+
+### **How to Use:**
+1. Download the standalone executable (.exe) from the link above.
+2. Enter screen dimensions (meters) and pixel density (px/m).
+3. Customize your structural color palette and link your PNG logo.
+4. Export high-precision alignment maps in SVG and PNG formats.
+
+---
+
+## 📝 Historial del Proyecto / Project History
+*(Aquí debajo dejas el historial de desarrollo que ya tenías)*
 
 ## 📝 Historial del Proyecto y Desarrollo Anterior
 *(Aquí debajo dejas todo el contenido que ya tenías en el README)*# SAG-VTOOL
