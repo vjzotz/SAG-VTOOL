@@ -1,4 +1,30 @@
-# SAG-VTOOL
+# SAG TOOL v1.1 - Script de Automatización de Grillas
+### Digital Tool for Visual Production by vjzotz
+
+[![Descargar Última Versión](https://img.shields.io/badge/Descargar-v1.1_EXE-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/vjzotz/SAG-TOOL/releases/latest)
+
+---
+
+## 💎 Novedades de la Versión 1.1
+Esta actualización transforma el flujo de trabajo original en una herramienta de precisión para el set:
+
+* **Motor de Píxeles**: Visualización automática de la resolución real en el lienzo ($px\_w \times px\_h$).
+* **Escalado Inteligente**: Algoritmo de protección de márgenes para asegurar la visibilidad en formatos extremos.
+* **UI Optimizada**: Interfaz estática sin scroll, diseñada para una operación rápida en entornos de producción.
+* **Firma Técnica**: Campo de "Responsable Técnico" permanente para asegurar la autoría del layout.
+
+---
+
+## 🛠 Instrucciones de Uso
+1.  Descarga el ejecutable desde el botón superior o la sección de **Releases**.
+2.  Define las dimensiones en metros y la densidad de píxeles de tu pantalla.
+3.  Personaliza la paleta de colores y vincula tu logo institucional.
+4.  Genera el mapa de alineación (SVG/PNG) listo para ruteo en Media Servers.
+
+---
+
+## 📝 Historial del Proyecto y Desarrollo Anterior
+*(Aquí debajo dejas todo el contenido que ya tenías en el README)*# SAG-VTOOL
 Script de Automatización de Grillas (Visual Tool)
 Desarrollado por vjzotz.
 
