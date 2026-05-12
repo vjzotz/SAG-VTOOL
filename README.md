@@ -1,7 +1,7 @@
 # SAG TOOL v1.1 - Script de Automatización de Grillas
 ### Digital Tool for Visual Production by vjzotz
 
-[![Descargar SAG TOOL v1.2](https://img.shields.io/badge/Descargar-v1.2_EXE-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/vjzotz/SAG-VTOOL/releases/download/v1.2/SAG.TOOL.V1.2.exe)
+[![Descargar SAG TOOL v1.3](https://img.shields.io/badge/Descargar-v1.3_EXE-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/vjzotz/SAG-VTOOL/releases/download/v1.3/SAG.TOOL.V1.3.exe)
 ---
 
 ## 💎 Novedades de la Versión 1.1 (Español)
